@@ -1,21 +1,15 @@
-const asset   		= require('assert')
-const program 		= require('commander')
-const { prompt } 	= require('inquirer')
-const pkg     		= require('./package.json')
 
-const {
-	newComponent,
-	newModel,
-	newModule,
-	newService,
-} = require('./generate')
-
+const asset   		  = require('assert')
+const pkg     		  = require('./package.json')
+const program 		  = require('commander')
+const { ngenerate } = require('./generate')
+const { prompt } 	  = require('inquirer')
 
 
 const promptNewAsset = [
 	{
 		type: 'list',
-		name: 'assetType',
+		name: 'type',
 		choices: [
 			'Component',
 			'Module',
@@ -23,26 +17,12 @@ const promptNewAsset = [
 			'Service',
 		],
 	},
-]
-
-const promptNewComponent = [
 	{
 		type: 'input',
-		name: 'componentName',
-		message: 'Enter component name ',
+		name: 'name',
+		message: 'Enter asset name ',
 	},
-	// {
-	// 	type: '',
-	// 	name: '',
-	// 	message: '',
-	// },
-	// {
-	// 	type: '',
-	// 	name: '',
-	// 	message: '',
-	// },
 ]
-
 
 
 program
@@ -51,20 +31,11 @@ program
 
 
 program
-	.command('newAsset')
+	.command('new')
 	.description('Add a new asset to your project!')
 	.action(() => {
 		prompt(promptNewAsset)
-			.then((answers) => {
-
-				switch(answers.assetType) {
-					case 'Component':
-						prompt(promptNewComponent).then(newComponent)
-						break;
-				}
-				console.log(answers)
-
-			})
+			.then(ngenerate)
 	})
 
 

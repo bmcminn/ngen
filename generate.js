@@ -1,6 +1,16 @@
 
+
+function ngenerate(opts) {
+
+	console.log(opts)
+
+
+}
+
+
 const newComponent = (opts) => {
 	console.log('newComponent() has run!', opts);
+	let file = generateFile(opts)
 }
 
 
@@ -21,8 +31,5 @@ const newModel = (opts) => {
 
 
 module.exports = {
-	newComponent,
-	newModule,
-	newService,
-	newModel,
+	ngenerate,
 }
