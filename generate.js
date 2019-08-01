@@ -39,7 +39,10 @@ function camelize(str) {
 function normalizePathsMap() {
 
   let assetMapPath  = path.resolve(process.cwd(), './src/tsconfig.app.json')
-  let assetPaths    = fs.readJSON(assetMapPath).assetPaths.compilerOptions.paths
+
+  console.log(assetMapPath)
+
+  let assetPaths    = fs.readJSON(assetMapPath).compilerOptions.paths
 
   let newPaths = {}
 
@@ -123,7 +126,7 @@ const ngenerate = (asset) => {
 
   asset.files
     .map((file) => {
-      console.log(`creating ${file.filename}...`, file)
+      console.log(`creating ${file.name}...`, file)
 
       let opts = {}
 

@@ -87,25 +87,28 @@ export class ${asset.classname} implements OnInit {
 
   // stylesheet
   asset.files.push({
-    type:     asset.styleExt,
-    filepath: path.resolve(assetBasePath, `${asset.filename}/${asset.filename}.${asset.styleExt}`),
     content:  styleContent,
+    filename: asset.filename,
+    filepath: path.resolve(assetBasePath, `${asset.slug}/${asset.filename}.${asset.styleExt}`),
+    type:     asset.styleExt,
   })
 
 
   // script file
   asset.files.push({
-    type:     asset.scriptExt,
-    filepath: path.resolve(assetBasePath, `${asset.filename}/${asset.filename}.${asset.scriptExt}`),
     content:  scriptContent,
+    filename: asset.filename,
+    filepath: path.resolve(assetBasePath, `${asset.slug}/${asset.filename}.${asset.scriptExt}`),
+    type:     asset.scriptExt,
   })
 
 
   // template
   asset.files.push({
-    type:     asset.templateExt,
-    filepath: path.resolve(assetBasePath, `${asset.filename}/${asset.filename}.${asset.templateExt}`),
     content:  templateContent,
+    filename: asset.filename,
+    filepath: path.resolve(assetBasePath, `${asset.slug}/${asset.filename}.${asset.templateExt}`),
+    type:     asset.templateExt,
   })
 
 
