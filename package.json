@@ -1,10 +1,15 @@
 {
   "name": "qdngen",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Angular asset generator for QD",
   "main": "ngen.js",
   "bin": {
     "ngen": "ngen.js"
+  },
+  "scripts": {
+    "patch": "node ./bump.js patch",
+    "minor": "node ./bump.js minor",
+    "major": "node ./bump.js major"
   },
   "author": "bmcminn <labs@gbox.name>",
   "license": "MIT",

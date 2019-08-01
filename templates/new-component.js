@@ -82,7 +82,6 @@ export class ${asset.classname} implements OnInit {
 
 
   let targetPath    = asset.pathsMap[assetType.toLowerCase()]
-
   let assetBasePath = path.resolve(process.cwd(), targetPath)
 
 

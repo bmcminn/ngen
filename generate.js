@@ -125,7 +125,9 @@ const ngenerate = (asset) => {
     .map((file) => {
       console.log(`creating ${file.filename}...`, file)
 
-      fs.write(file.filepath, contents [, options])
+      let opts = {}
+
+      fs.write(file.filepath, file.content, opts)
       // fs.writeFileSync(file.)
     })
 
