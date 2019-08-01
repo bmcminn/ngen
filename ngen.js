@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 const asset   		  = require('assert')
 const pkg     		  = require('./package.json')

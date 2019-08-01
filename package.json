@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Angular asset generator for QD",
   "main": "ngen.js",
+  "bin": {
+    "ngen": "ngen.js"
+  },
   "author": "bmcminn <labs@gbox.name>",
   "license": "MIT",
   "private": true,
