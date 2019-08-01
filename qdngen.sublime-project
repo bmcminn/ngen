@@ -1,0 +1,35 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"__*",
+				"*lock*",
+				"*.sublime-workspace"
+			],
+			"folder_exclude_patterns":
+			[
+				"node_modules",
+				"vendor",
+				"__*"
+			],
+			"path": "C:\\github\\qdam"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				"__*",
+				"*lock*",
+				"*.sublime-workspace"
+			],
+			"folder_exclude_patterns":
+			[
+				"node_modules",
+				"vendor",
+				"__*"
+			],
+			"path": "."
+		}
+	]
+}

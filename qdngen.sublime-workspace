@@ -1,0 +1,995 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"grid",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"grid-templ",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"grid-template",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"acr",
+				"actorsList"
+			],
+			[
+				"ene",
+				"Enemy"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/github/qdam/layouts/app.vue",
+			"settings":
+			{
+				"buffer_size": 343,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/github/qdam/components/MainNav.vue",
+			"settings":
+			{
+				"buffer_size": 2535,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/github/qdam/assets/styles/_variables.styl",
+			"settings":
+			{
+				"buffer_size": 1064,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"list key",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"chan",
+				"ChangeQuotes"
+			],
+			[
+				"toc",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"edit",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"dsa",
+				"Package Control: Disable Package"
+			],
+			[
+				"warp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"set syn edit",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 336.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/github/qdngen"
+	],
+	"file_history":
+	[
+		"/C/github/qdam/components/AppLogo.vue",
+		"/C/github/qdam/assets/styles/_mixins.styl",
+		"/C/github/qdam/assets/styles/_variables.styl",
+		"/C/github/qdam/pages/login.vue",
+		"/C/github/qdam/assets/styles/buttons.styl",
+		"/C/github/qdam/assets/styles/forms.styl",
+		"/C/github/qdam/assets/styles/layout.styl",
+		"/C/github/qdam/.gitignore",
+		"/C/github/qdam/package.json",
+		"/C/github/qdam/nuxt.config.js",
+		"/C/github/qdam/assets/styles/base.styl",
+		"/C/Users/lappy/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/github/qdam/assets/styles/normalize.styl",
+		"/C/github/qdam/components/TopBar.vue",
+		"/C/github/qdam/components/ChangelogDetail.vue",
+		"/C/github/qdam/components/ChangelogEntry.vue",
+		"/C/github/qdam/pages/changelog.vue",
+		"/C/github/qdam/static/helpers.js",
+		"/C/github/qdam/layouts/app.vue",
+		"/C/github/qdam/components/MainNav.vue",
+		"/C/github/qdam/layouts/default.vue",
+		"/C/github/qdam/pages/farming/_campaignid/responses/_responseId.vue",
+		"/C/github/qdam/pages/farming/_campaignid/orders/_ordernumber.vue",
+		"/C/github/qdam/pages/farming/_campaignid/leads/_leadId.vue",
+		"/C/github/qdam/pages/farming/_campaignid/recipients.vue",
+		"/C/github/qdam/pages/farming/_campaignid/index.vue",
+		"/C/github/qdam/pages/farming/index.vue",
+		"/C/github/qdam/pages/campaigns/_id.vue",
+		"/C/github/qdam/pages/buyer-followup/_campaign_id/billing/index.vue",
+		"/C/github/qdam/pages/buyer-followup/_campaign_id/billing/_ordernumber.vue",
+		"/C/github/qdam/pages/buyer-followup/index.vue",
+		"/C/github/qdam/pages/leads-and-responses.vue",
+		"/C/github/qdam/pages/sso.vue",
+		"/C/Users/lappy/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/github/qdam/pages/dashboard.vue",
+		"/C/github/qdam/.editorconfig",
+		"/C/github/qdam/pages/index.vue",
+		"/C/github/qdam/layouts/blank.vue",
+		"/C/github/qdam/store/auth.js",
+		"/C/github/qdam/store/pants.js",
+		"/C/Users/lappy/AppData/Roaming/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/C/Users/lappy/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/github/qdam/_styleguide/index.php",
+		"/C/github/qdam/_styleguide/_buttons.html",
+		"/C/github/qdam/_styleguide/_colors.html",
+		"/C/github/qdam/_styleguide/main.css",
+		"/C/github/qdam/_styleguide/docs-ui.css",
+		"/C/github/qdam/pages/buyer-followup/create/_step.vue",
+		"/C/github/qdam/README.md",
+		"/C/github/qdam/pages/campaigns/index.vue",
+		"/C/github/qdam/pages/buyer-followup/create/4.vue",
+		"/C/github/qdam/pages/campaigns/list.vue",
+		"/C/github/squares/helpers.js",
+		"/C/github/squares/index.php",
+		"/C/github/squares/game.js",
+		"/C/github/brandtley.name/src/_includes/layouts/base.njk",
+		"/C/github/brandtley.name/src/_data/metadata.json",
+		"/C/github/brandtley.name/package.json",
+		"/C/github/brandtley.name/src/htaccess.njk",
+		"/C/github/brandtley.name/.gitignore",
+		"/C/github/brandtley.name/_site/index.html",
+		"/C/github/brandtley.name/_site/404.html",
+		"/C/github/brandtley.name/_site/.htaccess",
+		"/C/github/brandtley.blog/package.json",
+		"/C/github/brandtley.blog/.eleventy.js",
+		"/C/github/brandtley.blog/src/styl/index.styl",
+		"/C/github/brandtley.blog/gulpfile.js",
+		"/C/github/brandtley.name/gulpfile.js",
+		"/C/github/brandtley.blog/_site/css/index.css",
+		"/C/github/brandtley.name/styl/main.styl",
+		"/C/github/brandtley.name/src/index.njk",
+		"/C/github/brandtley.name/src/posts/posts.json",
+		"/C/github/brandtley.name/src/404.njk",
+		"/C/github/brandtley.name/src/tags.njk",
+		"/C/github/brandtley.name/src/_includes/layouts/blog-post.njk",
+		"/C/github/brandtley.name/src/_includes/layouts/homepage.njk",
+		"/C/github/brandtley.name/src/_includes/layouts/tags.njk",
+		"/C/github/brandtley.name/src/_includes/views/homepage.njk",
+		"/C/github/brandtley.name/src/styl/main.styl",
+		"/C/github/brandtley.name/src/_includes/views/blog-post.njk",
+		"/C/github/brandtley.name/src/_includes/views/tags.njk",
+		"/C/github/brandtley.name/_site/css/main.css",
+		"/C/github/brandtley.name/.eleventy.js",
+		"/C/github/brandtley.name/src/posts/first-post.md",
+		"/C/github/brandtley.name/src/posts/second-post.md",
+		"/C/github/brandtley.name/README.md",
+		"/C/github/brandtley.name/_includes/blog-post.njk",
+		"/C/github/brandtley.name/_includes/layout.njk",
+		"/C/github/brandtley.name/_includes/css/main.css",
+		"/C/github/brandtley.name/_includes/views/layout.njk",
+		"/C/github/brandtley.name/_includes/views/blog-post.njk",
+		"/C/github/brandtley.name/_includes/views/homepage.njk",
+		"/C/github/brandtley.name/posts/posts.json",
+		"/C/github/brandtley.name/posts/first-post.md",
+		"/C/github/brandtley.name/404.md",
+		"/C/github/brandtley.name/_includes/views/tags.njk",
+		"/C/github/brandtley.name/index.html",
+		"/C/github/brandtley.name/_includes/homepage.njk",
+		"/C/github/brandtley.name/.editorconfig",
+		"/C/github/brandtley.name/_myblog.sublime-project",
+		"/C/github/brandtley.name/.eleventyignore",
+		"/C/github/brandtley.name/first-post.md",
+		"/C/github/todos-for-fun/index.php",
+		"/C/github/todos-for-fun/src/helpers.js",
+		"/C/github/mindmythings/package.json",
+		"/C/github/todos-for-fun/src/App.svelte",
+		"/C/github/todos-for-fun/package.json",
+		"/C/github/todos-for-fun/public/index.html",
+		"/C/github/todos-for-fun/src/components/TodoList.svelte",
+		"/C/github/todos-for-fun/rollup.config.js",
+		"/C/github/todos-for-fun/.gitignore",
+		"/C/Windows/System32/drivers/etc/lmhosts.sam",
+		"/C/Users/lappy/Downloads/us_florida-aes-128-cbc-udp-ip.ovpn",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/lappy/Desktop/stuff/psns.txt",
+		"/C/github/todos-for-fun/__old/public/app.js",
+		"/C/github/todos-for-fun/src/components/TodoList.vue",
+		"/C/github/todos-for-fun/src/views/Home.vue",
+		"/C/github/todos-for-fun/src/App.vue",
+		"/C/github/todos-for-fun/_todos.sublime-project",
+		"/C/github/todos-for-fun/__old/views/todolist.vue",
+		"/C/github/todos-for-fun/src/main.js",
+		"/C/github/todos-for-fun/src/components/HelloWorld.vue",
+		"/C/github/todos-for-fun/package (2).json",
+		"/C/github/todos-for-fun/views/base.twig",
+		"/C/github/todos-for-fun/public/app.js",
+		"/C/github/todos-for-fun/views/home.twig",
+		"/C/github/todos-for-fun/public/main.css"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"",
+			"*.styl",
+			"",
+			"*.styl",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"icon",
+			"nav-label",
+			"main-nav--link",
+			"campaigns",
+			"calendar",
+			"Dashboard",
+			"pencil",
+			"f2f2f2",
+			"e2eded",
+			"Suppot",
+			"_normalized",
+			"iconClass",
+			"filter",
+			"const",
+			"mainNav",
+			"fas.fa-",
+			"\">",
+			"theme--main-nav-width",
+			"\\$theme--main-nav-width",
+			"theme--bg-main-nav",
+			"main-nav",
+			"-nav-bg",
+			"theme--main-nav-bg",
+			"Feedback",
+			";",
+			"pants",
+			"svgFill",
+			"_ngcontent-c0",
+			"> <",
+			"fill",
+			"svgFill",
+			"fill",
+			"none",
+			"main-nav",
+			"<<<<",
+			"npm",
+			"<<<<<",
+			";",
+			"background",
+			";",
+			"btn-blank",
+			"e3e3e3",
+			"btn-red",
+			"button-bg",
+			"font-stack",
+			"primary",
+			"active",
+			"hover",
+			"visited",
+			"=",
+			"border",
+			"btn-link",
+			"bratio",
+			"gratio",
+			"rratio",
+			"fill",
+			"forms",
+			".btn",
+			"border",
+			"114",
+			"587",
+			"299",
+			"114",
+			"299",
+			"red",
+			"ffffff",
+			";",
+			"light-color",
+			"color-brightness",
+			"{",
+			"}",
+			"form-group",
+			"wrapper wrapper-content",
+			"import",
+			"Nesfjeslf",
+			"Highest",
+			"max",
+			"export",
+			"$fontStack",
+			"//\n",
+			"// * ",
+			"*\n",
+			"\n* ",
+			"*/",
+			"/*",
+			";",
+			"}",
+			"{",
+			"top",
+			"$theme-",
+			"theme-\\w",
+			"theme-",
+			"APRIL",
+			"publishedDate",
+			"entryDate",
+			"publishedDate",
+			"reutrn",
+			"entrydate",
+			"changed",
+			"added",
+			"changed",
+			"23",
+			"isExpanded",
+			"27",
+			"-",
+			"section",
+			"added",
+			"ChangelogEntry",
+			": ",
+			"removed",
+			"changed",
+			"added",
+			"deleted",
+			"added",
+			"Added",
+			"added",
+			"ChagnelogDetail",
+			"ChangelogDetail",
+			"ChagnelogDetail",
+			"Entry",
+			"added",
+			"\n      </ChangelogDetail name=\"added",
+			"Changelog",
+			"ChangelogChanged",
+			"Changed",
+			"Added",
+			"added",
+			"li>\n      <b>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/github/qdam/layouts/app.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/github/qdam/components/MainNav.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Materialize/Langs/npm JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/github/qdam/assets/styles/_variables.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								764,
+								764
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "qdngen.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"applogo",
+				"components\\AppLogo.vue"
+			],
+			[
+				"mainnav",
+				"components\\MainNav.vue"
+			],
+			[
+				"app",
+				"layouts\\app.vue"
+			],
+			[
+				"variabl",
+				"assets\\styles\\_variables.styl"
+			],
+			[
+				"variables",
+				"assets\\styles\\_variables.styl"
+			],
+			[
+				"form",
+				"assets\\styles\\forms.styl"
+			],
+			[
+				"nuxt",
+				"nuxt.config.js"
+			],
+			[
+				"base",
+				"assets\\styles\\base.styl"
+			],
+			[
+				"base.st",
+				"assets\\styles\\base.styl"
+			],
+			[
+				"login",
+				"pages\\login.vue"
+			],
+			[
+				"topba",
+				"components\\TopBar.vue"
+			],
+			[
+				"vara",
+				"assets\\styles\\_variables.styl"
+			],
+			[
+				"variab",
+				"assets\\styles\\_variables.styl"
+			],
+			[
+				"vairabl",
+				"assets\\styles\\_variables.styl"
+			],
+			[
+				"changelogdetail",
+				"components\\ChangelogDetail.vue"
+			],
+			[
+				"default",
+				"layouts\\default.vue"
+			],
+			[
+				"changelog",
+				"components\\ChangelogEntry.vue"
+			],
+			[
+				"edito",
+				".editorconfig"
+			],
+			[
+				"main",
+				"components\\MainNav.vue"
+			],
+			[
+				"dsah",
+				"pages\\dashboard.vue"
+			],
+			[
+				"varia",
+				"assets\\styles\\_variables.styl"
+			],
+			[
+				"",
+				"assets\\styles\\base.styl"
+			],
+			[
+				"vari",
+				"assets\\styles\\_variables.styl"
+			],
+			[
+				"nux",
+				"nuxt.config.js"
+			],
+			[
+				"base.styl",
+				"assets\\styles\\base.styl"
+			],
+			[
+				"buyerfollow",
+				"pages\\buyer-followup\\index.vue"
+			],
+			[
+				"dashboard",
+				"pages\\dashboard.vue"
+			],
+			[
+				"defaul",
+				"layouts\\default.vue"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"helpers",
+				"todos-for-fun\\src\\helpers.js"
+			],
+			[
+				"app.s",
+				"src\\App.svelte"
+			],
+			[
+				"todo",
+				"src\\components\\TodoList.vue"
+			],
+			[
+				"home",
+				"src\\views\\Home.vue"
+			],
+			[
+				"home.",
+				"views\\home.twig"
+			],
+			[
+				"app.jsx",
+				"views\\app.jsx"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"main.css",
+				"public\\main.css"
+			],
+			[
+				"todolist",
+				"views\\todo-list.jsx"
+			],
+			[
+				"norm",
+				"public\\normalize.css"
+			],
+			[
+				"app.",
+				"views\\app.jsx"
+			],
+			[
+				"app.js",
+				"public\\app.js"
+			],
+			[
+				"minil",
+				"src\\minilog.php"
+			],
+			[
+				"config",
+				"src\\config.php"
+			],
+			[
+				"api.php",
+				"routes\\api.php"
+			],
+			[
+				"api",
+				"routes\\api.php"
+			],
+			[
+				"db.",
+				"src\\DB.php"
+			],
+			[
+				"minilog",
+				"src\\minilog.php"
+			],
+			[
+				"db-ini",
+				"storage\\db-init-cmds.php"
+			],
+			[
+				"index.ph",
+				"index.php"
+			],
+			[
+				"main.",
+				"public\\main.css"
+			],
+			[
+				"helper",
+				"src\\helpers.php"
+			],
+			[
+				"norma",
+				"public\\normalize.css"
+			],
+			[
+				"base.wt",
+				"views\\base.twig"
+			],
+			[
+				"comp",
+				"composer.json"
+			],
+			[
+				"db",
+				"src\\DB.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
