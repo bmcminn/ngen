@@ -47,7 +47,7 @@ export class ${asset.classname} implements OnInit {
 
 
   // COMPONENT OUTPUTS
-  // @Output() methodName = new EventEmitter();
+  // @Output() methodNam e = new EventEmitter();
 
 
   // COMPONENT PROPERTIES
