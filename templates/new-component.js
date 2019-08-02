@@ -4,7 +4,7 @@ module.exports = (asset) => {
 
   let assetType = 'Component'
 
-  asset.classname = `${asset.name}${assetType}`
+  asset.classname = `${asset.classname}${assetType}`
   asset.filename  = `${asset.slug}.${assetType.toLowerCase()}`
 
 
@@ -40,8 +40,6 @@ export class ${asset.classname} implements OnInit {
 
   // BOOLEANS
   public isLoading        = true;
-  public isValidAddress   = false;
-  public isFormComplete   = false;
 
 
   // COMPONENT INPUTS

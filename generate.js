@@ -40,7 +40,7 @@ function normalizePathsMap() {
 
   let assetMapPath  = path.resolve(process.cwd(), './src/tsconfig.app.json')
 
-  console.log(assetMapPath)
+  // console.log(assetMapPath)
 
   let assetPaths    = fs.readJSON(assetMapPath).compilerOptions.paths
 
@@ -98,7 +98,7 @@ const ngenerate = (asset) => {
 
     case 'Module':
       asset = newModule(asset)
-      asset = newRoute(asset)
+      // asset = newRoute(asset)
       break;
 
     case 'Pipe':
